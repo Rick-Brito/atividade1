@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6ea899951534368f0b1806eb975187ac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Odin Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2a625d251a8ca6d185b9e2cd40c9e3e, type: 3}
+  - {fileID: 12800000, guid: a68732f5411c8bdb29abf670b54b6bd0, type: 3}
+  - {fileID: 12800000, guid: 6dc139817cba7584cae79a60d222adf4, type: 3}
+  - {fileID: 12800000, guid: b715bcb40706608c5bcd4b2bd54a30c3, type: 3}
+  - {fileID: 12800000, guid: b66810223283559fd84049ee2b6ff863, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
